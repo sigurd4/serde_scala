@@ -21,6 +21,15 @@ impl Pitch
             Self::Ratio(ratio) => (*ratio.numer() as f64/ *ratio.denom() as f64).log2()*1200.0
         }
     }
+
+    pub fn to_note_offset(self) -> f64
+    {
+        match self
+        {
+            Self::Cents(cents) => cents/100.0,
+            Self::Ratio(ratio) => (*ratio.numer() as f64/ *ratio.denom() as f64).log2()*12.0
+        }
+    }
 }
 
 impl Display for Pitch
