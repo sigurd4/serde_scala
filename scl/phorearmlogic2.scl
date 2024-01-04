@@ -1,0 +1,15 @@
+! phorearmlogic2.scl
+semaphore-armodue-pelogic wakalix 2
+! sempahore: -4 to 4; armodue: -8 to 0; pelogic: 0 to 8
+! semaphore: LsLsLsLsL; armodue: LsLLLsLLL; pelogic: LLLsLLLsL
+! also Tas 9b
+! also LH Diasem
+9/8
+8/7
+9/7
+4/3
+3/2
+32/21
+12/7
+16/9
+2/1

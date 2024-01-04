@@ -1,0 +1,15 @@
+! meanlike10.scl
+!
+epimorphic scale which tempers to -3 to 6 in meantone, three sizes of step
+10
+!
+10/9
+32/27
+5/4
+4/3
+45/32
+3/2
+5/3
+16/9
+15/8
+2/1

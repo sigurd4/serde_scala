@@ -1,0 +1,14 @@
+! 5-limit_double_harmonic_major.scl
+5-limit double harmonic major as a 3-SN scale
+! SNS (2/1, 3/2, 5/4)[7]
+! 2L 1M 4s = (75/64, 9/8, 16/15)
+! Mode 0: sLsMsLs
+7
+!
+16/15
+5/4
+4/3
+3/2
+8/5
+15/8
+2/1

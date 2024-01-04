@@ -1,0 +1,14 @@
+! dimavenipu.scl
+Dicot-mavila-enipucrop wakalix
+! dicot: -3 to 3; mavila: -3 to 3; enipucrop (1125/1024): -3 to 3
+! dicot: sLsLsLs; mavila: sLsssLs; enipucrop: sssLsss
+! same as tartini_7.scl, exptriad2.scl, helmholtz.scl
+7
+!
+16/15
+5/4
+4/3
+3/2
+8/5
+15/8
+2/1

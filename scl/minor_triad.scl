@@ -1,0 +1,9 @@
+! minortriad.scl
+!
+The minor triad as a wakalix
+! Fokblock([25/24, 16/15], [0, 0]) = Fokblock([25/24, 10/9], [1, 0]) = Fokblock([16/15, 10/9], [1, 0])
+3
+!
+6/5
+3/2
+2/1 

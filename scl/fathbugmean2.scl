@@ -1,0 +1,11 @@
+! fathbugmean2.scl
+Father-bug-meantone wakalix 2
+! father: -1 to 3; bug -3 to 1; meantone: -4 to 0
+! same as prime_5, even5a, semilim4, semisyn4, synlim4
+5
+!
+6/5
+4/3
+8/5
+9/5
+2/1

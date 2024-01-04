@@ -1,0 +1,12 @@
+! utonalpentad.scl
+!
+The utonal pentad as a wakalix
+! Fokblock([28/27, 21/20, 16/15], [1, 2, 3]) = Fokblock([36/35, 21/20, 16/15], [3, 2, 2])
+! = Fokblock([21/20, 36/35, 28/27], [2, 3, 2])
+5
+!
+6/5
+4/3
+3/2
+12/7
+2/1

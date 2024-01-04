@@ -1,0 +1,18 @@
+! 5-limit_dipentatonic_SNS.scl
+5-limit dipentatonic Step-Nested Scale
+! meanlike10 in a different mode
+! SNS ((2/1, 3/2)[5], 16/15)[10]
+! 2L 5m 3s = (10/9, 16/15, 135/128)
+! Mode 1: smLmsmLmsm
+10
+!
+135/128 
+9/8 
+5/4 
+4/3 
+45/32 
+3/2 
+5/3 
+16/9 
+15/8 
+2/1

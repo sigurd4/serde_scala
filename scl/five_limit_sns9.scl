@@ -1,0 +1,16 @@
+! 5-limit_nonatonic.scl
+5-limit nonatonic as a 3-SN scale
+! SNS ((2/1, 5/4)[3], 16/15)[9]
+! 1L 2M 6s = (9/8, 1125/1024, 16/15)
+! Mode 0: sMssLssMs
+6
+!
+16/15
+75/64 
+5/4 
+4/3
+3/2 
+8/5
+128/75 
+15/8 
+2/1

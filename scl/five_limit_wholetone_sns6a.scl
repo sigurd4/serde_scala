@@ -1,0 +1,13 @@
+! 5-limit_wholetone_a.scl
+5-limit wholetone with 45/32 as a 3-SN scale
+! SNS ((2/1, 5/4)[3], 9/8)[6]
+! 1L 3M 2s = (256/225, 9/8, 10/9)
+! Mode 1: MsMLMs
+6
+!
+9/8 
+5/4 
+45/32 
+8/5 
+9/5 
+2/1

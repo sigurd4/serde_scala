@@ -1,0 +1,13 @@
+! 5-limit_wholetone_b.scl
+5-limit wholetone with 36/35 as a 3-SN scale
+! SNS ((2/1, 5/4)[3], 10/9)[6]
+! 1L 2m 3s = (144/125, 9/8, 10/9)
+! Mode 2: msLsms
+6
+!
+9/8 
+5/4 
+36/25 
+8/5 
+9/5 
+2/1

@@ -1,0 +1,19 @@
+! meansruhelm.scl
+Meantone-srutal-helmholtz wakalix
+! meantone: -4 to 7; srutal: -8 to 2; helmholtz: -10 to 1
+! meantone: sLLsLsLLsLsL; srutal: LsLLLLLsLLLL; helmholtz: ssLsLsLssLsL
+! same as ramis, tamil_vi, schisdia6, syndia1
+12
+!
+135/128
+10/9
+32/27
+5/4
+4/3
+45/32
+3/2
+128/81
+5/3
+16/9
+15/8
+2/1

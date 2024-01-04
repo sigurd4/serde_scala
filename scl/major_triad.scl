@@ -1,0 +1,9 @@
+! majortriad.scl
+!
+The major triad as a wakalix
+! Fokblock([25/24, 16/15], [1, 0]) = Fokblock([25/24, 10/9], [2, 0]) = Fokblock([16/15, 10/9], [0, 1])
+3
+!
+5/4
+3/2
+2/1 

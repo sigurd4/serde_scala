@@ -1,0 +1,13 @@
+!5-limit_hexatonic.scl
+5-limit hexatonic as a 3-SN scale
+! SNS ((2/1, 5/4)[3], 16/15)[6]
+! 1L 2M 3s = (6/5, 75/64, 16/15)
+! Mode 2: MsLsMs
+6
+!
+75/64 
+5/4 
+3/2 
+8/5 
+15/8 
+2/1

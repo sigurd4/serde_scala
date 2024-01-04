@@ -1,0 +1,14 @@
+! mavlim4.scl
+Fourth 27/25&135/128 scale = tetratriad1 inverse mavlim5
+! Fokblock([27/25, 135/128], [3, 6]) = Fokblock([27/25, 729/640], [1, 6]) = Fokblock([135/128, 729/640], [7, 3])
+9
+!
+10/9
+9/8
+5/4
+4/3
+3/2
+5/3
+27/16
+15/8
+2

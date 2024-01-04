@@ -1,0 +1,19 @@
+! bicycle.scl
+!
+13-limit harmonic bicycle, George Secor, 1963
+! Transposition of Wilson's Helix Song, see David Rosenthal, Helix Song, XH 7&8, 1979
+! Also Andrew Heathwaite's Rodan scale
+12
+!
+13/12
+9/8
+7/6
+5/4
+4/3
+11/8
+3/2
+13/8
+5/3
+7/4
+11/6
+2/1

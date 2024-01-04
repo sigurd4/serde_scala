@@ -1,0 +1,12 @@
+! ternessbabdec.scl
+Ternary-nessus-baba-decimal wakalix
+! ternary: -3 and 0; nessus: 0 to 5; baba: -3 to 2; decimal: 0, 2, 4
+! same as hexany.scl
+6
+!
+15/14
+5/4
+10/7
+3/2
+12/7
+2/1
