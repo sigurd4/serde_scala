@@ -128,6 +128,7 @@ pub macro scl {
     }
 }
 
+#[derive(Debug, Clone, PartialEq)]
 pub struct Scale
 {
     pub name: String,
