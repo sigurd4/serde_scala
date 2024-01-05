@@ -289,6 +289,29 @@ mod tests {
     use super::*;
 
     #[test]
+    fn write_edo() -> Result<(), SerdeScalaError>
+    {
+        use std::io::Write;
+
+        for edo in [3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 52, 53, 56, 58, 59, 60, 61, 62, 65, 66, 72, 74, 77, 81, 84, 87, 89, 91, 94, 99, 100, 104, 105, 111, 116, 117, 118, 122, 123, 128, 130, 131, 145, 147, 149, 150, 157, 159, 166, 171, 180, 185, 190, 197, 202, 206, 217, 222, 225, 235, 237, 246, 253, 264, 271, 284, 306, 308, 311, 313, 320, 321, 329, 331, 380, 381, 385, 391, 400, 401, 437, 446, 472, 487, 494, 557, 559, 578, 589, 770, 961, 1848, 3558, 3600,]
+        {
+            println!("{}edo.scl", edo);
+            let mut file = File::create(format!("scl/{}edo.scl", edo))?;
+
+            writeln!(file, "!")?;
+            writeln!(file,"{}-note equal division of octave", edo)?;
+            writeln!(file,"{}", edo)?;
+            writeln!(file,"!")?;
+            for i in 0..edo
+            {
+                writeln!(file,"{:.5}", (i + 1) as f64/edo as f64*1200.0)?;
+            }
+        }
+
+        Ok(())
+    }
+
+    #[test]
     fn it_works() -> Result<(), SerdeScalaError>
     {
         let cd = fs::read_dir("scl").or_else(|_| {
@@ -303,7 +326,7 @@ mod tests {
             let contents = String::from_utf8_lossy(&bytes);
             let scale: Scale = contents.parse()?;
 
-            println!("{}", scale)
+            //println!("{}", scale)
         }
 
         Ok(())
